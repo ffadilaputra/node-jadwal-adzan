@@ -6,6 +6,7 @@ Data diambil dari sini [Jadwal Sholat.org](https://jadwalsholat.org/adzan/monthl
 
 ## Run Project 
 ```
+npm install
 npm start
 ```
 
